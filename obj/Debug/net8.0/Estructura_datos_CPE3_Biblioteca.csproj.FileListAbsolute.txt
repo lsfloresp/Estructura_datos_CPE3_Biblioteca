@@ -1,0 +1,15 @@
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\bin\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.exe
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\bin\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.deps.json
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\bin\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.runtimeconfig.json
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\bin\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.dll
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\bin\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.pdb
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\obj\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\obj\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.AssemblyInfoInputs.cache
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\obj\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.AssemblyInfo.cs
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\obj\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.csproj.CoreCompileInputs.cache
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\obj\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.dll
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\obj\Debug\net8.0\refint\Estructura_datos_CPE3_Biblioteca.dll
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\obj\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.pdb
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\obj\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.genruntimeconfig.cache
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\obj\Debug\net8.0\ref\Estructura_datos_CPE3_Biblioteca.dll
+D:\UEA_SF\Estructura de datos\Biblioteca_CPE3\Estructura_datos_CPE3_Biblioteca\obj\Debug\net8.0\Estructura_datos_CPE3_Biblioteca.sourcelink.json
